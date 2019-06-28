@@ -6,6 +6,7 @@ public class PracticeDemo {
 		
 		System.out.println("This is the 1st practice demo line");
 		System.out.println("This is the 2nd practice demo line");
+		System.out.println("This is the 3rd practice demo line by Lola");
 	}
 
 }
