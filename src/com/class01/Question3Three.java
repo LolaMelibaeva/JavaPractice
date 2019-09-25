@@ -1,7 +1,7 @@
 package com.class01;
 
 public class Question3Three {
-	public static void main (String [] args) {
+	public static void main (String []args) {
 		
 		//Find out how many alpha characters present in a string?
 		

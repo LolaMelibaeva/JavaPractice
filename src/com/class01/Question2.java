@@ -22,7 +22,7 @@ public class Question2 {
 		int largest=arr[0];
 		int seclargest=0;
 		
-		for (int i=0; i<arr.length; i++) {
+		for (int i=0; i<arr.length ; i++) {
 			if (arr[i]>largest) {
 				seclargest=largest;
 				largest=arr[i];

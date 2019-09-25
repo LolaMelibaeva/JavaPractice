@@ -17,7 +17,7 @@ public class Question5 {
 		
 		
 		StringBuffer sb=new StringBuffer(str);
-		sb.reverse();
+		//sb.reverse();
 		System.out.println(sb);
 		String reversed1="";
 		char[]str1=str.toCharArray();
